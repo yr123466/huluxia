@@ -1,5 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
+# 忽略所有文件和文件夹
+*
 # dependencies
 /node_modules
 /.pnp
